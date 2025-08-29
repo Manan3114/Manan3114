@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Projects<br>👯 I’m looking to collaborate on Web Dev projects<br>🤝 I’m looking for help with Javascript<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Html and css<br>⚡ Fun fact : Code is fun!
+🔭 I’m currently working on Fintech Projects<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Finance<br>💬 Ask me about anything<br>⚡ Fun fact : Tech + Finance is fun!
 
 
 ## 🌐 Socials:
