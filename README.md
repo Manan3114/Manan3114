@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about building solutions at the intersectio
 ## 🚀 About Me  
 - 🎓 Computer Science student with an interest in **FinTech, Data Science, and AI-driven Finance**.  
 - 💸 Exploring domains like **algorithmic trading, financial modeling, and payment systems**.  
-- 📊 Strong in **Python, Machine Learning, and APIs for financial applications**.  
+- 📊 Strong in **Python, SQL, and APIs for financial applications**.  
 - 🌱 Currently learning about **ai in finance** and **quantitative analysis**.  
 
 ---
