@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm passionate about building solutions at the intersectio
 ---
 
 ## 🌐 Connect With Me  
-- 💼 [GitHub Profile](https://github.com/Manan3114)  
+- 💼 [GitHub](https://github.com/Manan3114)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manankohli31/)  
 - ✉️ kohlimanan3114@gmail.com 
 
